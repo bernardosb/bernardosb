@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, mundo! Me chamo Bernardo e se você me conhece... eu sou o Bê!
+## Seja muito bem-vindo ao meu perfil. 👾
 
-<!--
-**bernardosb/bernardosb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Sobre mim:
+**Me interessei por programação durante a adolescência, enquanto cursava Mecatrônica. Durante o curso, fui apresentado ao universo da Programação Industrial (Arduino e AutoCAD). Desde então, estou alimentando o interesse por essa área. Sou um entusiasta da tecnologia e um estudante dedicado de Análise e Desenvolvimento de Sistemas, atualmente no 2° semestre. Pelo meu perfil no GitHub, você pode acompanhar meu desejo de compreender a fundo o mundo digital e meu crescimento em diversas linguagens de programação.
 
-Here are some ideas to get you started:
+## Estou aprendendo 👇
+<i'm loading="lazy" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+<i'm loading="lazy" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos:
+
+
